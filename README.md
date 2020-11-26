@@ -10,5 +10,5 @@ using numpy
 Result
 ---------------
 
-![alt text](https://github.com/ronak-07/Agglomerative-Hierarchical-Clustering/blob/master/Agglomerative.JPG)
+![image](https://user-images.githubusercontent.com/65080181/100307263-c04b2380-2fe8-11eb-9ba8-c6604fdfe47e.png)
 
